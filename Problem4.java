@@ -1,8 +1,14 @@
 // Author: Aravind Kumar Kongara
 // Language: Java
+<<<<<<< HEAD
 // Problem4 - Count multiples of 1–9 in a given list
 
 import java.util.Scanner;
+=======
+// Problem 4 - Count multiples of 1–9 in a given list
+
+import java.util.*;
+>>>>>>> ab101f7397d634b56491d2d1a34d59d40afd07b2
 	
 	public class Problem4 {
 		public static Map<Integer, Integer> getMultipleCounts(List<Integer> numbers) {

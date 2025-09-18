@@ -1,6 +1,10 @@
 // Author: Aravind Kumar Kongara
 // Language: Java
+<<<<<<< HEAD
 // Problem3 - Generate odd numbers up to input number
+=======
+// Problem 3 - Generate odd numbers up to input number
+>>>>>>> ab101f7397d634b56491d2d1a34d59d40afd07b2
 
 import java.util.Scanner;
 

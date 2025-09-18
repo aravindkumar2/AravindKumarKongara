@@ -1,6 +1,10 @@
 // Author: Aravind Kumar Kongara
 // Language: Java
+<<<<<<< HEAD
 // Problem2 - Generate first n odd numbers
+=======
+// Problem 2 - Generate first n odd numbers
+>>>>>>> ab101f7397d634b56491d2d1a34d59d40afd07b2
 
 import java.util.Scanner;
 

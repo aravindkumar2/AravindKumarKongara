@@ -1,6 +1,10 @@
 // Author: Aravind Kumar Kongara
 // Language: Java
+<<<<<<< HEAD
 // Problem1 - Calculator using Class
+=======
+// Problem 1 - Calculator using Class
+>>>>>>> ab101f7397d634b56491d2d1a34d59d40afd07b2
 
 import java.util.Scanner;
 
