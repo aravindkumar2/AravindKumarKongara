@@ -16,5 +16,5 @@
 ## How to Run
 Compile and run each program using:
 ***bash****
-javac Problem-1.java
+javac Problem1.java
 java Problem1
